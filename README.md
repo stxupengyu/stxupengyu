@@ -1,3 +1,10 @@
-[![stxupengyu's github stats](https://github-readme-stats.vercel.app/api?username=stxupengyu)](https://github.com/stxupengyu/github-readme-stats)  
+
+
+
+
+<img align="left" alt="stxupengyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stxupengyu&show_icons=true&hide_border=true" />
+
+---
+
 
 ![stxupengyu](https://github-readme-stats.vercel.app/api/top-langs/?username=stxupengyu&theme=buefy&layout=compact)
