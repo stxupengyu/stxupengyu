@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on recommendation algorithms.
 - 🌱 I’m currently learning machine learning theory.
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?stxupengyu=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stxupengyu)](https://github.com/stxupengyu/github-readme-stats)
